@@ -1,9 +1,4 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
 // Heading
 $_['heading_title']        = 'Встановлювач розширень';
 
@@ -32,7 +27,10 @@ $_['error_upload']         = 'Файл не може бути завантаже
 $_['error_filetype']       = 'Неправильний тип файлу!';
 $_['error_file']           = 'Немає файлу!';
 $_['error_unzip']          = 'Архів Zip пошкоджений!';
+$_['error_code']           = 'Модифікації потрібно унікальний ID код!';
+$_['error_exists']         = 'Модифікація %s використовує той же ID, який ви намагаєтесь завантажити!';
 $_['error_directory']      = 'Папка з файлами для завантаження не знайдена!';
+$_['error_ftp_status']     = 'FTP потрібно увімкнути в налаштуваннях';
 $_['error_ftp_connection'] = 'Помилка з’єднання як %s:%s';
 $_['error_ftp_login']      = 'Помилка підєднання як %s';
 $_['error_ftp_root']       = 'Помилка встановлення кореневої теки як %s';

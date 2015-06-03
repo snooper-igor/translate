@@ -1,9 +1,4 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
 // Heading
 $_['heading_title']      = 'Виробники';
 
@@ -35,4 +30,5 @@ $_['help_keyword']       = 'Не використовуйте пробіли, а
 // Error
 $_['error_permission']   = 'У вас немає доступу для редагування виробників!';
 $_['error_name']         = 'Назва виробника повинна містити від 2 до 64 символів!';
+$_['error_keyword']      = 'SEO ключовик вже використовується!';
 $_['error_product']      = 'Цей виробник не може бути видалений, оскільки він використовується в %s товарах!';

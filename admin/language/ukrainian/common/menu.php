@@ -1,9 +1,4 @@
 <?php
-
-//version 2.0.0.0
-//Made by Sirchyk for www.marketplus.if.ua on 16 of october 2014.
-//info@marketplus.if.ua
-
 // Text
 $_['text_affiliate']                   = 'Партнери';
 $_['text_affiliate_activity']          = 'Партнерська програма';
@@ -60,6 +55,8 @@ $_['text_report_customer_online']      = 'Користувачів на сайт
 $_['text_report_customer_order']       = 'Замовлення';
 $_['text_report_customer_reward']      = 'Бонусні бали';
 $_['text_report_customer_credit']      = 'Кредит';
+$_['text_report_affiliate']            = 'Партнери';
+$_['text_report_affiliate_activity']   = 'Партнерська програма';
 $_['text_report_affiliate_commission'] = 'Комісія';
 $_['text_review']                      = 'Огляди';
 $_['text_return']                      = 'Повернення';
@@ -94,6 +91,7 @@ $_['text_openbay_items']               = 'Опрацювання деталей'
 $_['text_openbay_ebay']                = 'eBay';
 $_['text_openbay_amazon']              = 'Амазон (EU)';
 $_['text_openbay_amazonus']            = 'Амазон (US)';
+$_['text_openbay_etsy']            	   = 'Etsy';
 $_['text_openbay_settings']            = 'Налаштування';
 $_['text_openbay_links']               = 'Посилання на товар';
 $_['text_openbay_report_price']        = 'Поскаржитися на ціну';
